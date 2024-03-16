@@ -9,9 +9,9 @@ Program ini menggunakan Java GUI kit, yang mana berisi data mahasiswa, seperti n
 # Mengubah
 ![1](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/e5d940af-9ba5-4192-8e70-0a4f033b944c)
 
-](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/6df4cc34-0090-438c-9c2a-182261bbf4a2)
+![3](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/4d1faf3e-0052-4d42-8705-3bf69ee82cb5)
 
-![3![Update](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/29522e3e-9d3e-474e-b916-e977be6f73fe)
+![Update](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/96c0442c-6e47-47ec-b424-f74bb5880429)
 
 # Menambah 
 ![add](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/15dd937f-15d1-4ba7-b5fe-251d1e034ef7)
