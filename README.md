@@ -7,10 +7,8 @@ Saya Muhammad Yusdan dengan NIM 2206847 mengerjakan LP5 dalam mata kuliah DPBO u
 Program ini menggunakan Java GUI kit, yang mana berisi data mahasiswa, seperti nim, nama, jenis kelamin, dan nilai. Fiturnya adalah menambah, mengubah, menghapus dan menampilkan list data.
 
 # Mengubah
-![1](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/e5d940af-9ba5-4192-8e70-0a4f033b944c)
-
+![2](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/98b60dd9-a374-4fa2-954a-3ea6fea9cdfb)
 ![3](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/4d1faf3e-0052-4d42-8705-3bf69ee82cb5)
-
 ![Update](https://github.com/mhmmdysdn/LP5DPBO2024C1/assets/119798315/96c0442c-6e47-47ec-b424-f74bb5880429)
 
 # Menambah 
