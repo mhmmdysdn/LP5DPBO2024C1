@@ -1,3 +1,5 @@
+//Saya Muhammad Yusdan dengan NIM 2206847 mengerjakan LP5 
+//dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
